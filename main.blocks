@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="/Uz*v7b8352apfVK|Xo[" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="-Pp-mcvsU*m)F!;p%hph"><field name="i">IconNames.Pitchfork</field></block></statement></block><block type="device_button_event" id="hxLouP)3TeM,{i}rZc+^" x="-1" y="165"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="servoservosetangle" id="W|2HR6/Vxg1i|uz11vCe"><field name="servo">servos.P0</field><value name="degrees"><shadow type="protractorPicker" id="Xi1qQsoZOj+LEAaVbYl7"><field name="angle">0</field></shadow></value><next><block type="device_show_leds" id="qFxHWOuEi_ezqXU9(xmM"><field name="LEDS">`
+        . # # # . 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        . # # # .
+        `</field></block></next></block></statement></block><block type="device_button_event" id="Gro8q+g%s@Z1z4|x?I+Q" x="373" y="165"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="servoservosetangle" id="#GLYVkeF+:$v=}jp6=-W"><field name="servo">servos.P0</field><value name="degrees"><shadow type="protractorPicker" id=")3y:Q3|-bIcASX/Qx93~"><field name="angle">180</field></shadow></value><next><block type="device_show_leds" id="6dJj.k{FB4WHcc*Ko).E"><field name="LEDS">`
+        . # # # . 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        . # # # .
+        `</field></block></next></block></statement></block></xml>
